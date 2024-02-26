@@ -1,0 +1,43 @@
+/* Add your custom CSS styles here */
+.chat-title {
+    color: white;
+  }
+  
+  .chat-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    min-height: 200px;
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  .message-input {
+    resize: none;
+  }
+  
+  .send-btn {
+    margin-top: 10px;
+  }
+  
+  .user-message {
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .bot-message {
+    background-color: #28A745;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .bot-icon, .user-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
