@@ -42,4 +42,5 @@ Through the development of AlgoWhiz, the team gained significant experience in a
 
 ### Screenshots / Demo
 ![Voiceflow](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/VoiceFlow.png)
+![Webpage](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/website.png)
 [![Watch the video](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/AlgoWhiz%20Demo.mp4)
