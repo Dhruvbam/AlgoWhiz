@@ -1,0 +1,71 @@
+AlgoWhiz Knowledge Document
+
+Introduction to Algorithms
+
+Definition: Step-by-step procedure for calculations.
+Purpose: Solve problems and perform tasks in computing.
+Importance: Foundation of software engineering and data processing.
+Algorithm Complexity
+
+Time Complexity: How the execution time of an algorithm changes with the size of the input.
+Space Complexity: The amount of memory an algorithm needs to run to completion.
+Big O Notation: Describes the worst-case complexity of an algorithm.
+Data Structures
+
+Arrays: Store data elements of the same type.
+Linked Lists: Sequence of nodes where each node points to the next node.
+Stacks: LIFO (last in, first out) data structure.
+Queues: FIFO (first in, first out) data structure.
+Trees: Hierarchical structure with a root value and subtrees.
+Graphs: Set of nodes connected by edges.
+Hash Tables: Implements an associative array, a structure that can map keys to values.
+Sorting Algorithms
+
+Bubble Sort: Repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.
+Insertion Sort: Builds the final sorted array one item at a time.
+Merge Sort: Divides the unsorted list into n sublists, then merges them to produce a new sorted sublist.
+Quick Sort: Divides a large array into two smaller sub-arrays, then recursively sort the sub-arrays.
+Search Algorithms
+
+Linear Search: Sequentially checks each element of the list.
+Binary Search: Efficiently find an item from a sorted list of items.
+Depth-First Search (DFS): Traverses as far as possible along each branch before backtracking.
+Breadth-First Search (BFS): Traverses all the neighbors at the present depth before moving on to nodes at the next depth level.
+Graph Algorithms
+
+Dijkstra's Algorithm: Finds the shortest path between nodes in a graph.
+Kruskal's Algorithm: Finds the minimum spanning tree for a connected weighted graph.
+Prim's Algorithm: Also used to find the minimum spanning tree.
+Bellman-Ford Algorithm: Computes shortest paths from a single source vertex to all of the other vertices in a weighted digraph.
+Dynamic Programming
+
+Concept: Breaks down problems into subproblems and solves each subproblem only once, storing the solution in a table to avoid the work of recomputing the solution every time.
+Applications: Fibonacci sequence, shortest path problems, and many others.
+Greedy Algorithms
+
+Concept: Makes the locally optimal choice at each stage with the hope of finding the global optimum.
+Applications: Knapsack problem, Huffman coding.
+Algorithm Design Paradigms
+
+Divide and Conquer: Divides the problem into smaller subproblems, solves each recursively, and then combines the solutions.
+Backtracking: Produces all possible solutions for a problem and chooses the best solution.
+Algorithmic Strategies
+
+Brute Force: Try all possibilities until a satisfactory solution is found.
+Randomized Algorithms: Use a degree of randomness as part of the logic.
+Membership Tiers for AlgoWhiz Users
+
+Free Access: Basic algorithm explanations and code snippets.
+Pro Membership: Advanced algorithm tutorials, time and space complexity analysis.
+Expert Membership: Access to interactive problem-solving sessions, personalized learning paths.
+Pricing for Additional Services
+
+One-on-One Tutoring: Personalized algorithm learning sessions with an expert.
+Code Review: Professional review of your algorithmic code for optimization and best practices.
+Special Offers and Discounts
+
+Academic Discount: Special pricing for students and educators.
+Bundle Offers: Discounts on bundle purchases for multiple services.
+Operating Hours
+
+AlgoWhiz is available 24/7 due to its digital nature, providing round-the-clock learning opportunities.
