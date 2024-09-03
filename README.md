@@ -1,5 +1,5 @@
 # AlgoWhiz
-
+![Project Image](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/algowhiz.jpg)
 ## About
 **AlgoWhiz** is an AI-powered chatbot designed to assist learners in mastering computer science algorithms. Developed as part of the Senior Capstone Project (CS 4366), AlgoWhiz provides interactive explanations, code snippets, and guidance on a wide range of algorithms. This tool was created to bridge the gap in understanding complex algorithmic concepts, offering personalized support for students and educators alike.
 
@@ -41,4 +41,5 @@ Through the development of AlgoWhiz, the team gained significant experience in a
 - **Website**: [AlgoWhiz Website](https://algowhiz.ju.mp/)
 
 ### Screenshots / Demo
-![AlgoWhiz Logo](https://your-image-link.png)
+![Voiceflow](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/VoiceFlow.png)
+[![Watch the video](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/AlgoWhiz%20Demo.mp4)
