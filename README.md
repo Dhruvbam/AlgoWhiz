@@ -7,8 +7,6 @@
 **AlgoWhiz** is a cutting-edge educational tool that leverages AI to provide dynamic, customized learning experiences for computer science students. It covers a variety of algorithms, including sorting techniques, searching methods, and graph algorithms, all presented with detailed explanations and interactive examples. The system is designed to be accessible through a web interface, where users can ask questions, receive immediate responses, and engage with algorithmic content in an intuitive and interactive way.
 
 ### Built With
-This section lists the major frameworks and technologies used in the project:
-
 - <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="36" height="36" alt="Python" /></a> **Python**: The core programming language used for developing the backend logic.
 - <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="36" height="36" alt="Flask" /></a> **Flask**: The web framework used for building the backend server.
 - <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" width="36" height="36" alt="OpenAI" /></a> **OpenAI API**: Powers the AI functionalities that generate intelligent responses.
