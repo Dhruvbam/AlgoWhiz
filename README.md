@@ -1,123 +1,44 @@
-# AlgoWhiz: AI-Powered Chatbot for Learning Computer Science Algorithms
+# AlgoWhiz
 
-AlgoWhiz is an advanced AI-powered learning tool designed to assist students in mastering computer science algorithms. By leveraging cutting-edge AI technologies, AlgoWhiz serves as an interactive chatbot embedded in a web interface, offering personalized explanations, visualizations, and practice tasks related to various algorithms frequently covered in computer science curricula.
+## About
+**AlgoWhiz** is an AI-powered chatbot designed to assist learners in mastering computer science algorithms. Developed as part of the Senior Capstone Project (CS 4366), AlgoWhiz provides interactive explanations, code snippets, and guidance on a wide range of algorithms. This tool was created to bridge the gap in understanding complex algorithmic concepts, offering personalized support for students and educators alike.
 
-## Table of Contents
+## Description
+**AlgoWhiz** is a cutting-edge educational tool that leverages AI to provide dynamic, customized learning experiences for computer science students. It covers a variety of algorithms, including sorting techniques, searching methods, and graph algorithms, all presented with detailed explanations and interactive examples. The system is designed to be accessible through a web interface, where users can ask questions, receive immediate responses, and engage with algorithmic content in an intuitive and interactive way.
 
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Technical Details](#technical-details)
-- [Challenges and Future Enhancements](#challenges-and-future-enhancements)
-- [Contributors](#contributors)
-- [License](#license)
+### Built With
+This section lists the major frameworks and technologies used in the project:
 
-## Introduction
+- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="36" height="36" alt="Python" /></a> **Python**: The core programming language used for developing the backend logic.
+- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="36" height="36" alt="Flask" /></a> **Flask**: The web framework used for building the backend server.
+- <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" width="36" height="36" alt="OpenAI" /></a> **OpenAI API**: Powers the AI functionalities that generate intelligent responses.
+- <a href="https://voiceflow.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Voiceflow-20C9FF?style=for-the-badge&logo=voiceflow&logoColor=white" width="36" height="36" alt="Voiceflow" /></a> **Voiceflow**: Manages the conversational flows and user interactions.
+- <a href="https://carrd.co/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Carrd-FF6347?style=for-the-badge&logo=carrd&logoColor=white" width="36" height="36" alt="Carrd" /></a> **Carrd**: Provides the user interface for interacting with the chatbot.
+- **Replit**: Used for hosting the backend server and managing the development environment.
 
-AlgoWhiz aims to simplify the learning of complex computer science algorithms by providing a user-friendly AI assistant. The platform covers a wide range of algorithms, including sorting techniques, graph algorithms, and search methods, with detailed explanations and step-by-step instructions to enhance understanding.
+### Installation
+1. Fork the project from Replit:
+    - [AlgoWhiz Replit](https://replit.com/@DhruvManiar/AlgoWhiz)
+2. Set up an OpenAI account and obtain the necessary API key.
+3. Run the Python code in Replit to initialize the backend server.
+4. Access the chatbot via the Carrd interface, and start interacting with AlgoWhiz.
 
-The project was developed as part of a senior capstone course (CS4366) at Texas Tech University, under the supervision of Professor [Advisor Name]. It is a collaboration between Dhruv Maniar and Isha Koregave.
+### Usage
+1. Launch the AlgoWhiz application via the provided URL.
+2. Interact with the chatbot by typing your algorithm-related questions.
+3. Receive instant feedback, code snippets, and explanations.
 
-## Project Structure
+### Contributions / References
+This project was collaboratively developed by:
+- **Dhruv Maniar**
+- **Isha Koregave**
 
-The project consists of the following main components:
+### Learning Outcome
+Through the development of AlgoWhiz, the team gained significant experience in applying AI to educational tools, integrating various technologies like Flask, Voiceflow, and OpenAI, and enhancing user interaction through an intuitive interface. The project also provided valuable insights into managing conversational AI systems and tailoring them to educational needs.
 
-- **Frontend Interface**: Built using Carrd for a simple and responsive design.
-- **Backend Server**: Hosted on Replit, the backend is implemented using Flask.
-- **AI Model Integration**: OpenAI's Assistant API is used for processing user queries and generating responses.
-- **Voiceflow Integration**: Manages conversational flows, enhancing user interaction with the AI model.
+### Links
+- **Replit Project**: [AlgoWhiz on Replit](https://replit.com/@DhruvManiar/AlgoWhiz?v=1)
+- **Website**: [AlgoWhiz Website](https://algowhiz.ju.mp/)
 
-### Files and Directories
-
-- `main.py`: The main Flask application that handles the backend operations, including communication with OpenAI's API.
-- `functions.py`: Utility functions for managing AI assistants and handling interactions with the OpenAI API.
-- `assistant.json`: Configuration file for storing the assistant's ID after creation.
-- `voiceflow.png`: Visual representation of the Voiceflow integration used in the project.
-- `AlgoWhiz Technical Document.pdf`: Detailed documentation of the project, including system architecture, algorithms, and validation results.
-
-## Features
-
-- **Interactive Learning**: Engage with the AI chatbot to receive explanations, examples, and code snippets related to various algorithms.
-- **Real-Time Response**: Immediate feedback and answers to algorithm-related queries.
-- **Educational Content**: Comprehensive explanations, examples, and step-by-step guides for understanding algorithms.
-- **Analytics and Progress Tracking**: Track your learning journey and monitor progress over time.
-
-## Installation and Setup
-
-### Prerequisites
-
-- **Python 3.x**
-- **Replit Account**: To run the backend server.
-- **OpenAI Account**: To access the Assistant API.
-- **Voiceflow Account**: For managing conversational flows.
-
-### Steps to Setup
-
-1. **Fork the Replit Project**: 
-   - Visit [AlgoWhiz Replit](https://replit.com/@DhruvManiar/AlgoWhiz?v=1) and fork the project to your own Replit account.
-   
-2. **Install Dependencies**:
-   - Run the following command to install necessary Python packages:
-     ```bash
-     pip install -r requirements.txt
-     ```
-
-3. **Set OpenAI API Key**:
-   - Obtain your OpenAI API key and set it as an environment variable in Replit:
-     ```bash
-     export OPENAI_API_KEY='your-api-key'
-     ```
-
-4. **Run the Server**:
-   - Start the Flask server:
-     ```bash
-     python main.py
-     ```
-
-5. **Access the Frontend**:
-   - Navigate to the Carrd website linked with Voiceflow for interaction.
-
-## Usage
-
-- **Starting a Conversation**:
-  - Use the `/start` endpoint to initiate a new conversation thread with the assistant.
-  
-- **Asking Questions**:
-  - Send POST requests to the `/chat` endpoint with your question to receive AI-generated responses.
-
-- **Real-Time Interaction**:
-  - Interact with the chatbot through the Carrd interface embedded with Voiceflow.
-
-## Technical Details
-
-### System Architecture
-
-- **Frontend**: Built with Carrd, integrated with Voiceflow for managing interactions.
-- **Backend**: Implemented using Flask, hosted on Replit.
-- **AI Model**: Uses OpenAI's Assistant API for generating responses.
-- **Voiceflow**: Manages the conversational logic and ensures a smooth user experience.
-
-### Algorithms and Data Flow
-
-- **Input Processing**: Utilizes NLP to understand user queries and retrieve relevant information.
-- **Response Generation**: The AI model generates responses based on the user's input and the context provided.
-- **Analytics**: Tracks user interactions to provide insights and improve the learning experience.
-
-## Challenges and Future Enhancements
-
-- **Scalability**: Ensuring the system can handle a large number of users simultaneously.
-- **Enhanced Personalization**: Developing features for more personalized learning experiences based on individual progress.
-- **Complex Query Handling**: Improving the AI's ability to handle more complex algorithmic questions.
-
-## Contributors
-
-- **Dhruv Maniar**: Website development, AI fine-tuning, and project management.
-- **Isha Koregave**: Backend development, Voiceflow integration, and presentation creation.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-For more detailed information about the project, including the system architecture, algorithms, and flowcharts, please refer to the [AlgoWhiz Technical Document](./AlgoWhiz%20Technical%20Document.pdf).
+### Screenshots / Demo
+![AlgoWhiz Logo](https://your-image-link.png)
