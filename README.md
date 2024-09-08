@@ -49,5 +49,7 @@ This project solidified my skills in building scalable AI-driven applications fo
 ### Screenshots / Demo
 ![Voiceflow](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/VoiceFlow.png)
 ![Webpage](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/website.png)
-[![Watch the video](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/algowhiz.jpg)](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/AlgoWhiz%20Demo.mp4)
+Watch Video: </br>
+[![Watch the video](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/algoowhiz.jpg)](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/AlgoWhiz%20Demo.mp4)
+
 
