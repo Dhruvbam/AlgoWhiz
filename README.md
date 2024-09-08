@@ -32,7 +32,15 @@ This project was collaboratively developed by:
 - **Isha Koregave**
 
 ### Learning Outcome
-Through the development of AlgoWhiz, the team gained significant experience in applying AI to educational tools, integrating various technologies like Flask, Voiceflow, and OpenAI, and enhancing user interaction through an intuitive interface. The project also provided valuable insights into managing conversational AI systems and tailoring them to educational needs.
+Developing **AlgoWhiz** provided deep insights into the intersection of AI and education:
+
+- **AI in Educational Tools**: Applied **AI** to create an interactive, learning-driven chatbot, tailoring responses to enhance user engagement and provide educational support.
+- **Technology Integration**: Gained experience integrating key technologies like **Flask**, **Voiceflow**, and **OpenAI**, building a seamless and responsive conversational AI system.
+- **User Interaction Design**: Focused on creating an intuitive user interface, enhancing user interactions and ensuring a smooth, engaging experience for learners.
+- **Conversational AI Management**: Developed expertise in managing complex conversational AI flows, optimizing the chatbot's ability to adapt to varying user inputs and educational needs.
+
+This project solidified my skills in building scalable AI-driven applications for educational environments.
+
 
 ### Links
 - **Replit Project**: [AlgoWhiz on Replit](https://replit.com/@DhruvManiar/AlgoWhiz?v=1)
@@ -41,4 +49,5 @@ Through the development of AlgoWhiz, the team gained significant experience in a
 ### Screenshots / Demo
 ![Voiceflow](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/VoiceFlow.png)
 ![Webpage](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/website.png)
-[![Watch the video](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/AlgoWhiz%20Demo.mp4)
+[![Watch the video](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/algowhiz.jpg)](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/AlgoWhiz%20Demo.mp4)
+
