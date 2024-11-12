@@ -1,10 +1,10 @@
 # AlgoWhiz
 ![Project Image](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/algoowhiz.jpg)
 ## About
-**AlgoWhiz** is an AI-powered chatbot designed to assist learners in mastering computer science algorithms. Developed as part of the Senior Capstone Project (CS 4366), AlgoWhiz provides interactive explanations, code snippets, and guidance on a wide range of algorithms. This tool was created to bridge the gap in understanding complex algorithmic concepts, offering personalized support for students and educators alike.
+**AlgoWhiz** is an AI-powered chatbot developed to assist learners in mastering computer science algorithms. Created as part of the Senior Capstone Project (CS 4366), AlgoWhiz integrates educational content, natural language processing (NLP), and interactive features to provide personalized support on a variety of algorithms, from sorting and searching to graph theory. Designed for students and educators, it simplifies complex concepts, offering code snippets, step-by-step guidance, and intuitive explanations for a user-friendly learning experience.
 
 ## Description
-**AlgoWhiz** is a cutting-edge educational tool that leverages AI to provide dynamic, customized learning experiences for computer science students. It covers a variety of algorithms, including sorting techniques, searching methods, and graph algorithms, all presented with detailed explanations and interactive examples. The system is designed to be accessible through a web interface, where users can ask questions, receive immediate responses, and engage with algorithmic content in an intuitive and interactive way.
+**AlgoWhiz** combines Python, Flask, and OpenAI’s GPT API to deliver dynamic responses and code examples in real time. The system leverages natural language processing (NLP) to interpret complex queries, while Voiceflow powers a seamless conversational interface. An SQL database supports efficient data retrieval, making AlgoWhiz a reliable, responsive tool tailored for mastering algorithms.
 
 ### Built With
 - <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="36" height="36" alt="Python" /></a> **Python**: The core programming language used for developing the backend logic.
