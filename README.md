@@ -44,7 +44,7 @@ This project solidified my skills in building scalable AI-driven applications fo
 
 ### Links
 - **Replit Project**: [AlgoWhiz on Replit](https://replit.com/@DhruvManiar/AlgoWhiz?v=1)
-- **Website**: [AlgoWhiz Website](https://algowhiz.ju.mp/)
+- **Website**: [AlgoWhiz Website](https://algowhiz.carrd.co/)
 
 ### Screenshots / Demo
 ![Voiceflow](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/VoiceFlow.png)
