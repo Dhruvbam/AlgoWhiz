@@ -46,6 +46,6 @@ This project was collaboratively developed by:
 ![Voiceflow](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/VoiceFlow.png)
 ![Webpage](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/website.png)
 Watch Video: </br>
-[![Watch the video](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/algoowhiz.jpg)](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/AlgoWhiz%20Demo.mp4)
+[![Watch the video]](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/AlgoWhiz%20Demo.mp4)
 
 
