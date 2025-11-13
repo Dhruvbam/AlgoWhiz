@@ -1,5 +1,5 @@
 # AlgoWhiz
-![Project Image](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/algoowhiz.jpg)
+![Project Image](https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/algowhiz.gif)
 
 AlgoWhiz is an AI-powered educational chatbot engineered to simplify the learning of computer science algorithms for students and educators alike. Developed as a senior capstone project, it seamlessly integrates natural language processing, dynamic code generation, and voice-based interaction to deliver personalized guidance on topics ranging from sorting and searching to graph theory and data structures. Built using Python, Flask, and the OpenAI API, AlgoWhiz stands as a robust, scalable tool that combines technical rigor with intuitive user experience, transforming complex concepts into accessible knowledge for all learners and educators.
 
