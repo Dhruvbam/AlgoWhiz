@@ -18,7 +18,7 @@ AlgoWhiz is an AI-powered educational chatbot engineered to simplify the learnin
 - **Natural Language Processing at Core:** Robust NLP lets users ask complex algorithmic questions and receive detailed, context-sensitive code snippets, step breakdowns, and analogies in multiple languages.
 - **Conversational Learning:** Voiceflow and Carrd interfaces provide a seamless chat experience, closely simulating a live tutoring session and promoting back-and-forth inquiry.
 - **Scalable Backend Architecture:** Python and Flask power a lightweight, responsive backend, while an SQL database ensures efficient retrieval of explanations and user queries.
-- **Efficient Algorithm Handling:** Backend logic executes algorithmic queries at near-optimal time and space complexity for supported problems (e.g., sorting in \(O(n \log n)\), search in \(O(n)\)), ensuring fast, insightful responses to users.
+- **Efficient Algorithm Handling:** Backend logic executes algorithmic queries at near-optimal time and space complexity for supported problems (e.g., sorting in O(n log n), search in O(n), ensuring fast, insightful responses to users.
 - **Collaborative Development:** Created for CS 4366 Senior Capstone; teamwork prioritized modular design, rigorous version control, and integration of industry-standard AI and web tools.
 - **Educational Outcomes:** The system is engineered for clarity and retention, emulating the latest computer science curriculum standards and challenging users to deepen their understanding through adaptive questioning and example generation.
 
